@@ -1,0 +1,30 @@
+{
+  "name": "working-hard-or-hardly-working-team-generator-ohya",
+  "version": "1.0.0",
+  "description": "employee generator",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabrtraveler/working-hard-or-hardly-working-team-generator-ohya.git"
+  },
+  "author": "sabrtraveler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabrtraveler/working-hard-or-hardly-working-team-generator-ohya/issues"
+  },
+  "homepage": "https://github.com/sabrtraveler/working-hard-or-hardly-working-team-generator-ohya#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.5.0"
+  }
+}
